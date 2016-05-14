@@ -1,0 +1,63 @@
+[33mcommit ba6898cb09722a0e42d48336ad33c8cfb4bccfe3[m
+Author: Platon-spv <platon.spv@gmail.com>
+Date:   Wed May 4 13:33:43 2016 +0300
+
+    	modified:   index.html
+    	deleted:    origin/master/blackandwhite.jpg
+    	deleted:    origin/master/blackandwhite.psd
+    	deleted:    origin/master/img/1111.png
+    	deleted:    origin/master/img/blackandwhite.png
+    	deleted:    origin/master/img/blackandwhite_with_dots.png
+    	deleted:    origin/master/img/fon_dot.png
+    	deleted:    origin/master/img/header_fon.png
+    	deleted:    origin/master/img/img-1.png
+    	deleted:    origin/master/img/img-2.png
+    	deleted:    origin/master/img/img-3.png
+    	deleted:    origin/master/img/img-4.png
+    	deleted:    origin/master/index.html
+    	deleted:    origin/master/normalize.min.css
+    	deleted:    origin/master/style.css
+
+[33mcommit df1a2855482cf86618ac5a8ab940d91974fc81e9[m
+Author: Platon-spv <platon.spv@gmail.com>
+Date:   Wed May 4 13:11:47 2016 +0300
+
+    	new file:   origin/master/blackandwhite.jpg
+    	new file:   origin/master/blackandwhite.psd
+    	new file:   origin/master/img/1111.png
+    	new file:   origin/master/img/blackandwhite.png
+    	new file:   origin/master/img/blackandwhite_with_dots.png
+    	new file:   origin/master/img/fon_dot.png
+    	new file:   origin/master/img/header_fon.png
+    	new file:   origin/master/img/img-1.png
+    	new file:   origin/master/img/img-2.png
+    	new file:   origin/master/img/img-3.png
+    	new file:   origin/master/img/img-4.png
+    	new file:   origin/master/index.html
+    	new file:   origin/master/normalize.min.css
+    	new file:   origin/master/style.css
+
+[33mcommit 11d1f5c38382947085e9569e44398a84bb00e457[m
+Author: Platon-spv <platon.spv@gmail.com>
+Date:   Wed May 4 13:09:18 2016 +0300
+
+    	new file:   blackandwhite.jpg
+    	new file:   blackandwhite.psd
+    	new file:   img/1111.png
+    	new file:   img/blackandwhite.png
+    	new file:   img/blackandwhite_with_dots.png
+    	new file:   img/fon_dot.png
+    	new file:   img/header_fon.png
+    	new file:   img/img-1.png
+    	new file:   img/img-2.png
+    	new file:   img/img-3.png
+    	new file:   img/img-4.png
+    	new file:   index.html
+    	new file:   normalize.min.css
+    	new file:   style.css
+
+[33mcommit 8a0cf972150aec4065fd9a5f01ed10ba512b5131[m
+Author: Platon-spv <platon.spv@gmail.com>
+Date:   Wed May 4 12:39:17 2016 +0300
+
+    :space_invader: Added .gitattributes & .gitignore files
